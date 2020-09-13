@@ -1,4 +1,4 @@
 package git_example;
 
-public class Robot {
+public class Example {
 }
