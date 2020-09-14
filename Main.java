@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("Git example");
         Person person = new Person(1, "Oleg Karpenko");
+` `
+        Person iam = new Person(2, "I am");
     }
 
 }
